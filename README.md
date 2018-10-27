@@ -13,7 +13,7 @@ Feature Processing
   
 Hyperparameter Tuning with GridSearchCV
 
-Feature Importance and COnfusion Matrix investigation
+Feature Importance and Confusion Matrix investigation
 
 ## One_Two_classifier
   
