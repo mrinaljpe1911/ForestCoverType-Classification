@@ -3,7 +3,7 @@
         This is the kaggle dataset for Forest Cover Type-Classification.
 
         Best model :- Extra Trees Classifier with Hyperparamets tuned using GridSearchCV
-              0.81926 Test Accuracy
+              81.93% Test Accuracy
              
                             
 The notebook includes:-
@@ -22,5 +22,5 @@ Feature Importance and Confusion Matrix investigation
 
 Best model :- 
          Best model :- Extra Trees Classifier with Hyperparamets tuned using GridSearchCV
-         0.81926 Test Accuracy
+         81.93% Test Accuracy
         
